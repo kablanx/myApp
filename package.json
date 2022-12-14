@@ -99,6 +99,7 @@
     "bootstrap": "4.6.2",
     "bootstrap-vue": "2.22.0",
     "dayjs": "1.11.5",
+    "faker": "^6.6.6",
     "vue": "2.7.5",
     "vue-class-component": "7.2.6",
     "vue-cookie": "1.1.4",
